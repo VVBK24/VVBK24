@@ -61,5 +61,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white" alt="IBM Cloud" />
   <img src="https://img.shields.io/badge/REST%20API-4B8BBE?style=flat&logo=swagger&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GPU-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA GPU" />
 </p>
 
