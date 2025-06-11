@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on **multimodal lung disease detection**, and exploring **prompt engineering**
 - 👀 I’m passionate about **LLMs, Backend Systems**, and **Cloud Architecture**
 - 🌱 Currently diving deeper into **Machine Learning** and **Scalable APIs**
-- 😄 Pronouns: He/Him
 - ⚡ Fun Stuff: Turning my ideas into real-world prototypes!
 
 ---
