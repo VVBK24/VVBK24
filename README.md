@@ -13,7 +13,7 @@
 ### 💡 About Me
 
 - 👋 Hi, I’m @VVBK24 (Vyasa Varma)
-- 🔭 I’m currently working on **multimodal lung disease detection**, and exploring **prompt engineering**
+- 🔭 I’m currently working on **multimodal lung disease detection**, and exploring **Data Science engineering**
 - 👀 I’m passionate about **LLMs, Backend Systems**, and **Cloud Architecture**
 - 🌱 Currently diving deeper into **Machine Learning** and **Scalable APIs**
 - ⚡ Fun Stuff: Turning my ideas into real-world prototypes!
