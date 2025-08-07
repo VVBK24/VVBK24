@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <a href="https://github.com/VVBK24" target="_blank">VYASA 👋</a></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="900px" alt="Coding guy gif" />
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="300px" alt="Coding guy gif" />
 </p>
 
 <p align="center">
